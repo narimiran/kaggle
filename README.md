@@ -8,4 +8,6 @@ Notebooks for [Kobe Bryant Shot Selection](https://www.kaggle.com/c/kobe-bryant-
 * [second part](http://nbviewer.jupyter.org/github/narimiran/kaggle/blob/master/kobe-part2.ipynb) prepares the data for ML, and tests different ML algorithms
 
 ## Titanic
-A notebook for [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) has all above parts in one place - [here](https://github.com/narimiran/kaggle/blob/master/titanic.ipynb).
+A notebook for [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic). Consists of two parts: 
+* [first part](http://nbviewer.jupyter.org/github/narimiran/kaggle/blob/master/titanic-part1.ipynb) - exploratory analysis
+* second part - machine learning - coming soon
